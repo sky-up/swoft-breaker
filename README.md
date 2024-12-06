@@ -12,7 +12,7 @@ Swoft Breaker Component
 - composer command
 
 ```bash
-composer require swoft/breaker
+composer require swoft-fork/breaker
 ```
 
 ## Resources
